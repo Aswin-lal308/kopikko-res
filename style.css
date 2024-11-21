@@ -1,0 +1,86 @@
+
+.heading-1 {
+   background-color: black;
+   color: rgb(153, 153, 153);
+   align-items: center;
+   width: 100%;
+   text-align: center;
+   display: inline;
+   
+  }
+  .Candy-1 {
+   font-family: open Sans, sans-serif;
+   font-weight: 100;
+   font-size: 12PX;
+   padding-bottom: 18px;
+  }
+  .main-head{
+   font-size: 40px;
+   font-family: Playfair Display, serif;
+   padding-top: 5vh;
+   letter-spacing: 2px;
+  }
+  .first-part{
+   background-color: black;
+   padding-bottom: 50px;
+
+  }
+  .Nav-bar-me{
+   margin-left: 55vh;
+   position: relative;
+
+}
+  .line {
+   color: white;
+   }
+.about-kopiko {
+   font-family: open Sans, sans-serif;
+   text-align: center;
+   color: rgb(153, 153, 153);
+   padding-top: 20vh;  
+   font-size: 22px !important;
+   width: 91vw;
+   
+}
+
+.about-kopiko2 {
+   font-family: open Sans, sans-serif;
+   text-align: center;
+   color: rgb(153, 153, 153);  
+   font-size: 22px !important;
+   width: 90vw;
+   padding-top: 3vh;
+
+}
+.navbar-toggler-icon{
+   background-image: url(images/pngegg.png);
+}
+.image2 {
+   padding-bottom: 30vh;
+}
+
+.image-second{
+   width: 68vw;
+
+}
+.svg-colection {
+   gap: 8vw;
+   padding-bottom: 30vh;
+   
+}
+.svg-facebook {
+   color:  white;
+   
+}
+.last-part {
+   font-size: ;
+}
+.conclution {
+   font-family: open Sans, sans-serif;
+   text-align: center;
+   color: rgb(153, 153, 153);  
+   font-size: 15px !important;
+
+
+
+}
